@@ -526,7 +526,8 @@
 }
 
 .footer {
-  aspect-ratio: 268/312;
+max-width: 412px;
+margin: auto;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -643,8 +644,10 @@
   margin-top: 3px;
 }
 
-.footer{
+.footer-img{
 aspect-ratio: 268/312;
+max-width: 268px;
+box-shadow: 0 0 11px 4px rgba(0, 0, 0, 0.3);
 }
 
 @media (width<412px) {
