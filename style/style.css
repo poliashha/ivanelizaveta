@@ -66,7 +66,7 @@
   align-items: center;
   justify-content: center;
   gap: 15px;
-  margin-top: 35px;
+  margin-top: 65px;
 }
 
 .box-music {
@@ -170,7 +170,7 @@
 }
 
 .cake {
-  bottom: 110px;
+  bottom: 130px;
   right: 10px;
 }
 
